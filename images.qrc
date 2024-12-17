@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>images/fadein.png</file>
+        <file>images/fadeout.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/stop.png</file>
+        <file>images/seekB.png</file>
+        <file>images/seekF.png</file>
+        <file>images/StagePlayer.png</file>
+    </qresource>
+</RCC>
